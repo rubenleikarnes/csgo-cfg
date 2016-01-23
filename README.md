@@ -1,4 +1,4 @@
-# You probably looking for [this file](ruben/game.cfg)
+# You probably looking for [this file](cfg/ruben/game.cfg)
 
 Launch options
 
